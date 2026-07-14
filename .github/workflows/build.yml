@@ -12,4 +12,3 @@ jobs:
         with:
           name: lib-binary
           path: lib
-
